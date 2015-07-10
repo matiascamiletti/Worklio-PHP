@@ -7,7 +7,7 @@
  */
 class Worklio 
 {
-    static $BASE_URL = 'http://localhost:8888/worklio-web/public/';
+    static $BASE_URL = 'http://worklio.mobileia.com/';
     
     private $_apiKey = '';
     
